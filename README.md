@@ -1,4 +1,4 @@
-# Hello, word
+# Hello, world
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
